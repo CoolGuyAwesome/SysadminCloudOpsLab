@@ -52,7 +52,17 @@ These exercises can be perfomed with Azure Cloud Shell (Free).
 ## Month 2 - Automation & Hybrid Identity
 The second month will cover task automation via scripting with Powershell, Linux Bash, and Azure (ARM/Bicep/CLI). Identity and Access Management will also be covered through tools like Entra ID, AD Connect, Intune, Conditional Access, MFA, etc.
 ### Week 5: Powershell Fundamentals
-
+- Basic tools (Get-Help, Get-Command, Get-Service, Get-Process, Get-Package)
+- Variables, logics & loops
+    - Conditional logic (if, elseif, switch)
+    - Loops (foreach, while)
+    - Object functions (ForEach-Object, Select-Object, Where-Object, Compare-Object)
+- Logging tools (Get-WinEvent, Get-EventLogs)
+- Mini Projects
+    - Write a script that checks if disk space is below certain threshold and sends a desktop notification. Schedule the task at log on through Task Scheduler.
+    - Write a script that checks if Spooler service is running, start the service if not.
+    - Write a script that logs system errors past a certain date.
+- Document journey.
 ### Week 6: Linux Automation (Bash Scripting)
 
 ### Week 7: Azure Automation
