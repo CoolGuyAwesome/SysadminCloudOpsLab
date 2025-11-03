@@ -49,4 +49,14 @@ These exercises can be perfomed with Azure Cloud Shell (Free).
 - (Optional - May Incur Charges) Create a storage account and setup private endpoint connection to a VNet.
 - Document journey.
 
-## Month 2: Automation & Hybrid Identity
+## Month 2 - Automation & Hybrid Identity
+The second month will cover task automation via scripting with Powershell, Linux Bash, and Azure (ARM/Bicep/CLI). Identity and Access Management will also be covered through tools like Entra ID, AD Connect, Intune, Conditional Access, MFA, etc.
+### Week 5: Powershell Fundamentals
+
+### Week 6: Linux Automation (Bash Scripting)
+
+### Week 7: Azure Automation
+
+### Week 8: Azure Identity & Hybrid Management
+
+
